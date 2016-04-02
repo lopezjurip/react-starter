@@ -31,3 +31,11 @@ npm start
 ```
 
 > It's debuggable with `debugger`
+
+### Testing
+
+Run all test located in `test/` with:
+
+```sh
+npm test
+```
