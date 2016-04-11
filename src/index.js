@@ -1,8 +1,10 @@
-'use strict'
+/* eslint strict:0 */
 
-import React from 'react'
-import ReactDOM from 'react-dom'
-import App from './app'
+'use strict';
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './app';
 
 
-ReactDOM.render(<App />, document.getElementById('root'))
+ReactDOM.render(<App />, document.getElementById('root'));
